@@ -115,20 +115,15 @@
 }
 /* clints section */
 #section7{
-padding-top: 50px;
+padding-top: 20px;
+padding-left: 300px;
+background-color:rgb(197, 26, 146);
 }
-@media (max-width:992px) {
-  #section7{
-   display: block;
-    padding-top:25px;
-  }
-}
-
 /* footer */
 .footer {
   font-size: 14px;
   background-color:rgb(197, 26, 146);
-  padding: 50px 0;
+  padding: 30px 0;
   color: rgba(255, 255, 255, 0.7);
 }
 
